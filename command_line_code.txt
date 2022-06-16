@@ -1,0 +1,7 @@
+// open the directory in which maya py is store
+// for windows it wil be like : C:\Program Files\Autodesk\Maya2018\bin
+// you may also need to change the script path as per your local location
+
+// Execute below command to run the script
+// TIP: don't use any white space in the path like: "maya tool"
+.\mayapy.exe D:\maya_tools\data_trader\console_export.py
